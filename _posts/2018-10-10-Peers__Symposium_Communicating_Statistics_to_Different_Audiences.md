@@ -1,0 +1,34 @@
+---
+layout: post
+title: "[Peers] Symposium Communicating Statistics to Different Audiences"
+date: 2018-10-10
+description: "Op 10 november kwamen statistici uit heel Nederland bijeen voor het Symposium Communicating Statistics to Different Audiences. Zie voor een rapportage de website https://www.vvsor.nl/statistics-communication/. De opkomst bij het symposium was een groot compliment aan de organisatie, die met hun sectie Statistics Communication een belangrijke taak op zich gaat nemen binnen de vereniging. De vragen vanuit het publiek lieten zien dat er veel interesse is om samen na te denken over het communiceren van statistiek, en in het bijzonder onzekerheid.Over de speciale interesse die er bij het publiek was voor het communiceren van onzekerheid heb ik een stuk geschreven voor op de website van de sectie. Bij deze ook in een blogpost."
+tags: []
+categories: ["Peers"]
+thumbnail: /assets/img/posts/Peers__Symposium_Communicating_Statistics_to_Different_Audiences-thumbnail.jpeg
+---
+![](/assets/img/posts/Peers__Symposium_Communicating_Statistics_to_Different_Audiences-0.jpeg)
+
+Tijdens het Symposium *Communicating Statistics to Different Audiences* was er vanuit het publiek veel interesse in het communiceren van onzekerheid. Op verschillende manieren werd er stilgestaan bij de vragen: Welke onzekerheid communiceer je? Hoe vertel je je publiek waar die onzekerheid vandaan komt? En wat verwacht je dat je publiek daarmee doet?
+
+De sprekers tijdens het symposium waren Thomas Ruigrok, namens het Centraal Bureau voor de Statistiek (CBS), Dr. Nel Verhoeven, statistisch consultant, en Prof. Gerd Gigerenzer, onderzoeker naar risicocommunicatie en directeur van het Harding Center for Risk Litteracy.
+
+De onzekerheid in de cijfers van het CBS heeft vaak een gemixte oorsprong. Waar het gaat om enquêtedata, laten we die ‘peilingen’ noemen, publiceert het CBS voor sommige cijfers betrouwbaarheidsintervallen. Thomas Ruigrok vertelde dat zijn afdeling Communicatie & Nieuws ook bezig is met de visualisatie daarvan. Voor andere cijfers is het wel of niet vermelden van onzekerheid een blijvende discussie, aldus Ruigrok. Dat is misschien ook wel het geval bij Gapminder, de organisatie van inspiratiebron Hans Rosling, die ook niet altijd de onzekerheid in cijfers liet zien. Maar als Rosling dit deed, bijvoorbeeld in *Gapcast #7, Maternal Mortality*, valt ook weer veel van hem te leren. Het zou mooi zijn als we hier in de toekomst voorbeelden van gaan zien bij het CBS Communicatie & Nieuws, dat Ruigrok graag zou modelleren naar het voorbeeld van Rosling.
+
+[![](/assets/img/posts/Peers__Symposium_Communicating_Statistics_to_Different_Audiences-1.jpeg)](https://www.gapminder.org/news/gapcast-7-maternal-mortality/)
+
+In het verhaal van Nel Verhoeven over peilingen (van hygiëne in Britse toiletten) lag haar nadruk op communiceren dat onzekerheid kan zorgen voor verschillen die niet statistisch significant zijn. Haar voorbeeld beschreef een situatie waarin een peiling werd geframed als een toename ten opzichte van de vorige meting, wat volgens Verhoeven te wijten was aan het ontbreken van betrouwbaarheidsintervallen. Professor Gerd Gigerenzer benadrukte daarentegen dat er in de medische miscommunicatie al zo veel te winnen is in het helder communiceren van de schatter zelf (absolute risico’s, geen relatieve risico’s bijvoorbeeld, zie ook Gigerenzers Tedx Talk) dat we vooral de orde van grootte van risico’s goed moeten visualiseren, en de onzekerheid pas in tweede instantie in het oog moeten laten springen. Een voorbeeld hiervan is te zien in de *Faktenbox* over vaccinaties, die Gigerenzer ontwikkelde met zorgverzekeraar AOK.
+
+[![](/assets/img/posts/Peers__Symposium_Communicating_Statistics_to_Different_Audiences-2.jpeg)](https://www.aok.de/pk/fileadmin/user_upload/Universell/05-Content-PDF/160422_AOK-Faktenbox-MMR.pdf)
+
+Het communiceren in meerdere lagen, zoals Gigerenzer voorstaat, kan juist weer niet zo goed als je slechts één plot laat zien. Een plot met twee schatters met ieder hun betrouwbaarheidsinterval is informatief als je geïnteresseerd bent in beide schatters, maar niet als je hun verschil wil beoordelen. Het verschil van twee onafhankelijke schatters met dezelfde onzekerheid heeft namelijk wel een verdubbelde variantie, maar de standaarddeviatie neemt maar met een factor wortel 2 toe. Twee betrouwbaarheidsintervallen zijn daardoor samen een factor wortel 2 te breed om met hun overlap de statistische significantie van het verschil te beoordelen. De vraag ‘Welke onzekerheid communiceer je?’ is dus zelfs voor de hygiëne van toiletpotten niet triviaal.
+
+[![](/assets/img/posts/Peers__Symposium_Communicating_Statistics_to_Different_Audiences-3.png)](http://statisticscommunication.nl/wp-content/uploads/2018/10/NelVerhoeven_statscommunication10oct18.pdf)
+
+Hoe communiceer je waar die onzekerheid vandaan komt en hoe vertel je je publiek wat het ermee moet? Hierover werden meerdere vragen gesteld aan Nel Verhoeven in de context van haar toilettenpeiling, waarvoor ze geen concrete aanbeveling had. De situatie is nog veel lastiger als het gaat om onzekerheid in wetenschappelijk onderzoek. Gerd Gigerenzer vertelde dat hij zijn visualisaties met name baseert op randomized controlled trials, nadat hem vanuit het publiek werd gevraagd hoe hij omgaat met observationele data. In de spirit van Gigerenzers meerlaagse visualisaties, krabbelde ik zelf na afloop van het symposium ‘*www.peilingen.moe*’ van Maarten Lambrechts en ‘*#peiljewijzer*’ van I hate statistics op het briefje voor in de ideeënbox. Deze twee voorbeelden visualiseren niet alleen waar onzekerheid vandaan komt, maar beantwoorden ook nog concreet de vraag: Wat moet ik hiermee? “Verschuivingen van 2 procent zullen zinloos blijken” (*www.peilingen.moe* over verkiezingen voor het Vlaamse parlement) en “Zie je verschillen van één, twee of drie zetels? Trek je er niet te veel van aan.” (*#peiljewijzer* over de Nederlandse Tweede Kamer). Deze tools demonstreren dat voor peilingen het communiceren van onzekerheid al tot een kunst is verheven.
+
+[![](/assets/img/posts/Peers__Symposium_Communicating_Statistics_to_Different_Audiences-4.png)](https://decorrespondent.nl/6267/na-dit-spel-snap-je-veel-peilingennieuws-is-geen-nieuws-peiljewijzer/91201858638-532696a1)
+
+De opkomst bij het symposium was een groot compliment aan de organisatie, die met hun sectie *Statistics Communication* een belangrijke taak op zich gaat nemen binnen de vereniging. De vragen vanuit het publiek lieten zien dat er veel interesse is om samen na te denken over het communiceren van statistiek, en in het bijzonder onzekerheid. Er zijn al vele mooie visualisaties van onzekerheid te vinden op het internet, maar het is denk ik toch ook aan statistici om te bepalen wélke onzekerheid belangrijk is om te communiceren.
+
+Wed, 10 October
