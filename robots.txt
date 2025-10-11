@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://JudithterSchure.github.io//sitemap.xml
