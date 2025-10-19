@@ -126,7 +126,7 @@ ninja.data = [{
         
           title: "[Peers] My propositions!",
         
-        description: "Photo: Leiden Academiegebouw Ten propositions, following Leiden tradition, with at least four about my dissertation, four about my field and at most four personal statements. They do not appear in the Ph.D. dissertation itself, as is custom, but on a separate sheet in the printed book. So hey are easily lost. Here, I try to make them easy to find!Propositions Ph.D. defenseJudith ter Schure – ALL-IN meta-analysis",
+        description: "Ten propositions, following Leiden tradition, with at least four about my dissertation, four about my field and at most four personal statements. They do not appear in the Ph.D. dissertation itself: it is custom to add them on a separate sheet in the printed book. So they are easily lost. Here, I try to make them easy to find!",
         section: "Posts",
         handler: () => {
           
