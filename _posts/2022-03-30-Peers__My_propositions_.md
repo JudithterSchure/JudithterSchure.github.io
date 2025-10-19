@@ -2,7 +2,7 @@
 layout: post
 title: "[Peers] My propositions!"
 date: 2022-03-30
-description: "Photo: Leiden Academiegebouw Ten propositions, following Leiden tradition, with at least four about my dissertation, four about my field and at most four personal statements. They do not appear in the Ph.D. dissertation itself, as is custom, but on a separate sheet in the printed book. So hey are easily lost. Here, I try to make them easy to find!Propositions Ph.D. defenseJudith ter Schure – ALL-IN meta-analysis"
+description: "Ten propositions, following Leiden tradition, with at least four about my dissertation, four about my field and at most four personal statements. They do not appear in the Ph.D. dissertation itself: it is custom to add them on a separate sheet in the printed book. So they are easily lost. Here, I try to make them easy to find!"
 tags: []
 categories: ["Peers"]
 thumbnail: /assets/img/posts/Peers__My_propositions_-thumbnail.jpeg
@@ -13,7 +13,7 @@ thumbnail: /assets/img/posts/Peers__My_propositions_-thumbnail.jpeg
   
 Ten propositions, following Leiden tradition, with at least four about my dissertation, four about my field, and at most four personal statements.   
   
-They do not appear in the Ph.D. dissertation itself, as is custom, but on a separate sheet in the printed book. So they are easily lost. Here, I try to make them easy to find!
+They do not appear in the Ph.D. dissertation itself: it is custom to add them on a separate sheet in the printed book. So they are easily lost. Here, I try to make them easy to find!
 
 Propositions Ph.D. defense
 
