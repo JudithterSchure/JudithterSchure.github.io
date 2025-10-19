@@ -27,7 +27,7 @@ In mijn onderzoek houd ik me bezig met nieuwe statistische methodes voor het sta
 
 <p >ALL-IN meta-analyse is een statistische aanpak die <em>Anytime</em>, <em>Live</em>, <em>Leading </em>kan zijn en mogelijk is op <em>INterim </em>data. ALL-IN meta-analysis kan worden toegepast in een retrospectieve setting, maar ook prospectief, om de resultaten eenmalig te analyseren of meerdere keren over de tijd (sequentieel). </p>
 
-<p >Lees meer over mijn promotieonderzoek in het Engels in <a href="[General-Interview-in-Het-Parool-en-New-Scientist](https://www.nieuwarchief.nl/serie5/pdf/naw5-2022-23-4-246.pdf)">deze mooie samenvatting van Nicos Starreveld in het tijdstrip van het Koninklijk Wiskundig Genootschap</a>, of in het Nederlands in <a href="General-Interview-in-Het-Parool-en-New-Scientist">dit oudere interview in New Scientist en Het Parool</a>.</p>
+<p >Lees meer over mijn promotieonderzoek in het Engels in <a href="https://www.nieuwarchief.nl/serie5/pdf/naw5-2022-23-4-246.pdf)">deze mooie samenvatting in een interview van Nicos Starreveld in het tijdschrift van het Koninklijk Wiskundig Genootschap</a>, of in het Nederlands in <a href="General-Interview-in-Het-Parool-en-New-Scientist">dit oudere interview in New Scientist en Het Parool</a>.</p>
 
 <p >Mijn onderzoek is gemotiveerd door de replicatiecrisis in de wetenschap* en <a href="http://rewardalliance.net/">de beweging om Research Waste te verminderen</a>: Evidence-Based Research (<a href="https://ebrnetwork.org/">Evidence-Based Research Network</a>).</p>
 
