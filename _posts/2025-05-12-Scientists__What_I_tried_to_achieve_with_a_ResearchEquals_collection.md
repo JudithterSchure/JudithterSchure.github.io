@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Scientists] What I tried to achieve with a ResearchEquals collection"
-date: 2024-05-12
+date: 2025-05-12
 description: "How I did the best I could and spent a large amount of time, still gave up before fully completing it, am happy I tried it, happy I gave up, and happy with the result. ResearchEquals is a research publishing platform that is used by open science enthusiasts like myself. This blog post is..."
 tags: []
 categories: ["Scientists"]
