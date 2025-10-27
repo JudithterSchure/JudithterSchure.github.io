@@ -89,13 +89,13 @@ ResearchEquals replication package ALL-IN-META-BCG-CORONA
 
 ### 8. References
 
-Blog post detailing the excitement of doing prospective meta-analys in a live dashboard and initiating the ALL-IN-META-BCG-CORONA project: [https://significanthelp.nl/Personal-COVID-19-trial-dashboard](https://significanthelp.nl/Personal-COVID-19-trial-dashboard)
+Blog post detailing the excitement of doing prospective meta-analys in a live dashboard and initiating the ALL-IN-META-BCG-CORONA project: [https://significanthelp.nl/blog/Personal__COVID-19_trial_dashboard](https://significanthelp.nl/blog/Personal__COVID-19_trial_dashboard)
 
-Media coverage of the innovative statistical approach: [https://significanthelp.nl/General-Interview-in-Het-Parool-en-New-Scientist](https://significanthelp.nl/General-Interview-in-Het-Parool-en-New-Scientist)
+Media coverage of the innovative statistical approach: [https://significanthelp.nl/blog/General__Interview_in_Het_Parool_en_New_Scientist](https://significanthelp.nl/blog/General__Interview_in_Het_Parool_en_New_Scientist)
 
-Blog post detailing the failure of fast data sharing, and how the research effort could have been more valuable without data transfer agreements: [https://significanthelp.nl/Blog/Scientists-Avoidable-research-waste-caused-by-data-transfer-agreements](https://significanthelp.nl/Blog/Scientists-Avoidable-research-waste-caused-by-data-transfer-agreements)
+Blog post detailing the failure of fast data sharing, and how the research effort could have been more valuable without data transfer agreements: [https://significanthelp.nl/blog/Scientists__Avoidable_research_waste_caused_by_data_transfer_agreements](https://significanthelp.nl/blog/Scientists__Avoidable_research_waste_caused_by_data_transfer_agreements)
 
-Blog post detailing the failure of using citations of underlying scientific effort to give credit, make modules findable, and highlight authorship: [https://significanthelp.nl/Blog/Scientists-What-I-tried-to-achieve-with-a-ResearchEquals-collection](https://significanthelp.nl/Blog/Scientists-What-I-tried-to-achieve-with-a-ResearchEquals-collection)
+Blog post detailing the failure of using citations of underlying scientific effort to give credit, make modules findable, and highlight authorship: [https://significanthelp.nl/blog/Scientists__What_I_tried_to_achieve_with_a_ResearchEquals_collection](https://significanthelp.nl/blog/Scientists__What_I_tried_to_achieve_with_a_ResearchEquals_collection)
 
 Journal publication about the benefits of the ALL-IN statistical approach for bottom-up collaboration updated into a V2 with the ALL-IN-META-BCG-CORONA results:
 
