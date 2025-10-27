@@ -23,18 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-scientists-what-i-tried-to-achieve-with-a-researchequals-collection",
-        
-          title: "[Scientists] What I tried to achieve with a ResearchEquals collection",
-        
-        description: "How I did the best I could and spent a large amount of time, still gave up before fully completing it, am happy I tried it, happy I gave up, and happy with the result. ResearchEquals is a research publishing platform that is used by open science enthusiasts like myself. This blog post is...",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/Scientists__What_I_tried_to_achieve_with_a_ResearchEquals_collection";
-          
-        },
-      },{id: "post-scientists-oscaward-for-all-in-meta-bcg-corona",
+        },{id: "post-scientists-oscaward-for-all-in-meta-bcg-corona",
         
           title: "[Scientists] OSCAward for ALL-IN-META-BCG-CORONA",
         
@@ -43,6 +32,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/Scientists__OSCAward_for_ALL-IN-META-BCG-CORONA-thumbnail";
+          
+        },
+      },{id: "post-scientists-what-i-tried-to-achieve-with-a-researchequals-collection",
+        
+          title: "[Scientists] What I tried to achieve with a ResearchEquals collection",
+        
+        description: "How I did the best I could and spent a large amount of time, still gave up before fully completing it, am happy I tried it, happy I gave up, and happy with the result. ResearchEquals is a research publishing platform that is used by open science enthusiasts like myself. This blog post is...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/Scientists__What_I_tried_to_achieve_with_a_ResearchEquals_collection";
           
         },
       },{id: "post-peers-e-values-have-a-wikipedia-page",
