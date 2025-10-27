@@ -23,18 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-scientists-oscaward-for-all-in-meta-bcg-corona",
-        
-          title: "[Scientists] OSCAward for ALL-IN-META-BCG-CORONA",
-        
-        description: "Here I share the story of the project that motivated me to nominate it, see the nomination text below. Lessons learned in terms of the unique features of the ALL-IN approach appeared in an updated (V2) version of the ALL-IN paper: ter Schure J and Grünwald P. ALL-IN meta-analysis: breathing li...",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/Scientists__OSCAward_for_ALL-IN-META-BCG-CORONA-thumbnail";
-          
-        },
-      },{id: "post-scientists-what-i-tried-to-achieve-with-a-researchequals-collection",
+        },{id: "post-scientists-what-i-tried-to-achieve-with-a-researchequals-collection",
         
           title: "[Scientists] What I tried to achieve with a ResearchEquals collection",
         
@@ -43,6 +32,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/Scientists__What_I_tried_to_achieve_with_a_ResearchEquals_collection";
+          
+        },
+      },{id: "post-scientists-oscaward-for-all-in-meta-bcg-corona",
+        
+          title: "[Scientists] OSCAward for ALL-IN-META-BCG-CORONA",
+        
+        description: "Here I share the story of the project that motivated me to nominate it, see the nomination text below. Lessons learned in terms of the unique features of the ALL-IN approach appeared in an updated (V2) version of the ALL-IN paper: ter Schure J and Grünwald P. ALL-IN meta-analysis: breathing li...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/Scientists__OSCAward_for_ALL-IN-META-BCG-CORONA-thumbnail";
           
         },
       },{id: "post-peers-e-values-have-a-wikipedia-page",
