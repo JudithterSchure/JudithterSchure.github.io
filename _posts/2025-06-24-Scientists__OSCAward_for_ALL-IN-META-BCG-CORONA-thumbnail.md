@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Scientists] OSCAward for ALL-IN-META-BCG-CORONA"
-date: 2024-06-24
+date: 2025-06-24
 description: "Here I share the story of the project that motivated me to nominate it, see the nomination text below. Lessons learned in terms of the unique features of the ALL-IN approach appeared in an updated (V2) version of the ALL-IN paper: ter Schure J and Grünwald P. ALL-IN meta-analysis: breathing li..."
 tags: []
 categories: ["Scientists"]
